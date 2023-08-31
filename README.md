@@ -3,6 +3,10 @@ GitHub file directory
 
 ### A~E
 
+Batch-Rename
+> python, 批量转换文件名
+>> 系统、批量、转换 
+
 Classifier-Machine-Learning
 > python, 机器学习分类器，例子为两层分类器的实现，涉及SVM、KNN
 >> 机器学习、分类器
@@ -35,6 +39,10 @@ GLCM-skimage
 Image-Interpolation
 > python & matlab, 图像双线性插值，使图像更清晰
 >> 双线性插值, 数字图像处理
+
+Jpg-transfer-to-npy
+> python, jpg格式转换为npy文件
+>> jpg, npy
 
 ### K~O
 
